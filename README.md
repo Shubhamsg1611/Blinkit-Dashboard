@@ -8,8 +8,8 @@ The Blinkit Dashboard Project is a comprehensive data analysis and visualization
 Project Overview
 In this project, I utilized the Blinkit dataset to create comprehensive visualizations that highlight crucial business insights. Below are some of the key findings from the analysis:
 
-Key Metrics
-Total Sales: $1.20M
-Average Sales: $141
-Number of Items Sold: 8523
-Average Ratings: 3.9
+Key Metrics:
+- Total Sales: $1.20M
+- Average Sales: $141
+- Number of Items Sold: 8523
+- Average Ratings: 3.9
